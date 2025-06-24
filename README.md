@@ -6,7 +6,7 @@ Tech Stack:HTML,CSS,JavaScript(react or similar frameworks)
 
 The goal of the project is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings
 
-## UI/UX planning
+## UI/UX Design Planning
 
 ### Design Goals
 
@@ -145,21 +145,27 @@ Prioritizes features based on business value and user needs, ensuring the team d
 
 Facilitates Agile processes, removes blockers, and fosters collaboration, helping the team work productively and adaptively.
 
-
 ## UI Component Patterns
+
 ### Planned Components
+
 1. Navbar
-  * Logo
-  * Search bar
-  * User navigation
-  * Responsive menu
+
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
 2. Property Card
-  * Property image
-  * Basic details (price, location, rating)
-  * Favorite button
-  * Responsive layout
+
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
 3. Footer
-  * Site links
-  * Company information
-  * Social media links
-  * Copyright information
+
+- Site links
+- Company information
+- Social media links
+- Copyright information
